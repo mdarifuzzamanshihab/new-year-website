@@ -1,0 +1,33 @@
+/* header related style */
+.banner {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("images/bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1330px;
+    height: 610px;
+    border-radius: 20px;
+    background-position: center;
+    margin: 52px 140px 0px 210px;
+
+
+}
+
+.hi1 {
+    color: #FFF;
+    text-align: center;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    padding-top: 180px;
+}
+
+.hi2 {
+    color: #FFF;
+    text-align: center;
+    font-size: 75px;
+    font-style: normal;
+    font-weight: 900;
+    padding-left: 345px;
+    padding-right: 345px;
+    margin-top: 0;
+}
