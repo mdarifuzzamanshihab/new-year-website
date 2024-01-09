@@ -274,3 +274,34 @@ border: 15px solid #F00;
     padding-right: 230px;
 }
 
+/* section-third */
+
+.holiday{
+    margin-top: 120px;
+}
+.what{
+    color: #070211;
+font-family: Inter;
+font-size: 25px;
+font-style: normal;
+font-weight: 500;
+}
+
+.holiday-sale{
+    color: #070211;
+font-family: Merriweather;
+font-size: 75px;
+font-style: normal;
+font-weight: 900;
+}
+
+.para3{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+padding: 0px 270px 0px 270px;
+margin-top: -10px;
+}
