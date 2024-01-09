@@ -1,3 +1,9 @@
+body{
+
+}
+
+
+
 /* header related style */
 .banner {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("images/bg.png");
@@ -165,7 +171,7 @@
     padding: 110px 380px 220px 380px;
     color: #070211;
     font-family: Inter;
-    font-size: 30px;
+    font-size: 29px;
     font-style: normal;
     font-weight: 600;
     line-height: 56px;
@@ -322,6 +328,7 @@
     margin-top: 500px;
     padding-left: 140px;
     padding-right: 140px;
+    margin-bottom: 130px;
 }
 
 .gift {
@@ -361,4 +368,210 @@
     height: 433px;
     z-index: -5;
     position: relative;
+}
+
+
+
+/* section-fourth */
+.titlethe{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+}
+
+.titlethe2{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+text-transform: capitalize;
+}
+
+
+.titlepara{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+}
+
+.sec1{
+    padding-left:120px;
+    padding-right: 140px;
+    margin-left: 30px;
+    
+}
+
+.pic1{
+    border-radius: 18px;
+    padding-right: 25px;
+    width: 398px;
+height: 430px;
+
+    
+}
+
+
+.sec2{
+    padding-left:120px;
+    padding-right: 140px;
+    margin-left: 30px;
+    padding-top: 25px;
+}
+
+
+.title{
+    margin-bottom: 50px;
+    padding-left: 140px;
+}
+
+
+/* subscribe section */
+
+.subscribe{
+    border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+width: 1320px;
+height: 616px;
+margin-left: 140px;
+margin-top: 140px;
+}
+
+.sub{
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+text-transform: capitalize;
+}
+
+.para3{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+}
+.mail{
+    padding-left: 585px;
+    padding-top: 78px;
+    width: 150px;
+height: 150px;
+}
+
+#inputmail{
+    width: 648px;
+height: 70px;
+flex-shrink: 0;
+border-radius: 50px;
+background: #FFF;
+margin-left: 337px;
+border: 0;
+padding-left: 30px;
+}
+
+.button2{
+    border-radius: 0px 50px 50px 0px;
+background: #F00;
+width: 210px;
+height: 74.8px;
+border: 0;
+margin-left: -200px;
+padding-bottom: 5px;
+
+
+
+}
+
+.sus{
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+text-transform: capitalize;
+}
+
+
+/* footer scetion */
+
+.foot{
+    width: 1600px;
+height: 609px;
+flex-shrink: 0;
+background: #070211;
+}
+
+
+.last44{
+    color: #FFF;
+font-family: Inter;
+font-size: 25px;
+font-style: normal;
+font-weight: 500;
+padding: 120px 600px 410px 140px;
+}
+
+.num{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+
+}
+.icon{
+    padding: 120px 290px 0px 0px;
+}
+
+.last {
+    display: flex;
+}
+
+.hrline1{
+    width: 1320px;
+height: 1px;
+background: rgba(255, 255, 255, 0.15);
+}
+
+
+.social-icons{
+    margin-top: -295px;
+    width: 65px;
+height: 65px;
+display: flex;
+padding-top: ;
+padding-left: 640px;
+}
+
+
+.allrights{
+    color: #FFF;
+font-family: Inter;
+font-size: 25px;
+font-style: normal;
+font-weight: 500;
+padding-left: 140px;
+margin-top: 80px;
+}
+
+.copyright{
+    display: flex;
+}
+
+
+#un{
+    margin-left: 770px;
+}
+
+footer{
+    margin-top: 140px;
 }
